@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ganoosh.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ganoosh.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][snush]
 [<img align="left" alt="Ganoosh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Ganoosh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ganoosh | Telegram" width="22px" src="https://host.ganoosh.repl.co/assets/telegram.svg" />][Telegram]
@@ -33,8 +33,6 @@
 <img align="left" alt="Git" width="26px" src="https://host.ganoosh.repl.co/assets/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-
-
 <br />
 <br />
 
@@ -49,6 +47,8 @@
 <!-- YOUTUBE:START -->
 - [S.Nush.Me Url Shortener - With free api access](https://s.nush.me/)
 
+- [S.Nush.Me Url Shortener Documentation, made from scratch!](https://s.nush.me/docs)
+
 - [Status.Nush.Me Open Source Url Shortener - A automated status page written in pure javascript](https://status.nush.me/)
 
     [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ganoosh&repo=status.nush.me)](https://github.com/Ganoosh/status.nush.me)
@@ -62,7 +62,8 @@
 
 
 
-
+[snush]: https://s.nush.me/
+[snushdoc]: http://s.nush.me/docs
 [website]: https://ganoosh.tk
 [twitter]: https://twitter.com/GaNoodles_
 [Telegram]: https://t.me/Ganoodles
