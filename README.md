@@ -1,6 +1,4 @@
 ### Hi there, I'm Aden - aka [Ganoosh][website] 👋
-
-## I'm a video editor, game programmer, and developer!
 - 🔭 I’m currently working on [snush url shortener][website]!
 - 🌱 I’m currently learning advanced techniques of node.js  
 - 🥅 2020 Goals: Finish and create snush!
