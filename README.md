@@ -36,13 +36,6 @@
 
 ---
 
-### Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganoosh)](https://github.com/Ganoosh)
-<br>
----
----
-<br>
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ganoosh&show_icons=true&hide_border=true" />
 
 [snush]: https://s.nush.me/
 [snushdoc]: http://s.nush.me/docs
