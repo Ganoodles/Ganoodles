@@ -44,3 +44,11 @@
 ---
 <br>
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ganoosh&show_icons=true&hide_border=true" />
+
+[snush]: https://s.nush.me/
+[snushdoc]: http://s.nush.me/docs
+[website]: https://ganoosh.tk
+[twitter]: https://twitter.com/GaNoodles_
+[Telegram]: https://t.me/Ganoodles
+[Discord]: https://discord.bio/p/aden
+[youtube]: https://youtube.com/Ganoosh
