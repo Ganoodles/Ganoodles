@@ -42,29 +42,5 @@
 <br>
 ---
 ---
-### Latest Projects
-<!-- YOUTUBE:START -->
-- [S.Nush.Me Url Shortener - With free api access](https://s.nush.me/)
-
-- [S.Nush.Me Url Shortener Documentation, made from scratch!](https://s.nush.me/docs)
-
-- [Status.Nush.Me Open Source Url Shortener - A automated status page written in pure javascript](https://status.nush.me/)
-
-    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ganoosh&repo=status.nush.me)](https://github.com/Ganoosh/status.nush.me)
-
-- [Ganoosh.tk - Portfolio (Made with adobe portfolio)](https://ganoosh.tk/)
-<!-- YOUTUBE:END -->
-
----
 <br>
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ganoosh&show_icons=true&hide_border=true" />
-
-
-
-[snush]: https://s.nush.me/
-[snushdoc]: http://s.nush.me/docs
-[website]: https://ganoosh.tk
-[twitter]: https://twitter.com/GaNoodles_
-[Telegram]: https://t.me/Ganoodles
-[Discord]: https://discord.bio/p/aden
-[youtube]: https://youtube.com/Ganoosh
