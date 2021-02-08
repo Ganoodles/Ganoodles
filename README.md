@@ -1,5 +1,4 @@
 ### Hi there, I'm Aden - aka [Ganoosh][website] 👋
-- Im currently working on learning advanced java, and sql statements
 
 ### Connect with me:
 
