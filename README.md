@@ -1,6 +1,6 @@
 ## GitHub kinda broke my profile readme...
 ### Languages and Tools:
-Main Editor(s): VsCode/VIM
+Main Editor(s): Doom Emacs/VsCode/VIM
 
 Main OS: Linux, Baseline Arch (yes ik... _i use arch btw_)
 
