@@ -17,9 +17,9 @@ I recently privated all of my unfinished/deprecated repos.
 [![Setup](https://img.shields.io/badge/PC%20Build-8f99b6?style=for-the-badge)](https://pcpartpicker.com/list/Bb8p4d)
 
 ## Socials
-[![Discord](https://img.shields.io/badge/Discord-5539cc?style=for-the-badge&logo=discord&logoColor=white)](Discord)
-[![Telegram](https://img.shields.io/badge/Telegram-127eb6?style=for-the-badge&logo=telegram&logoColor=white)](Telegram)
-[![Email](https://img.shields.io/badge/Email-bb001a?style=for-the-badge&logo=gmail&logoColor=white)](Email)
+[![Discord](https://img.shields.io/badge/Discord-5539cc?style=for-the-badge&logo=discord&logoColor=white)](https://discord.bio/p/aden)
+[![Telegram](https://img.shields.io/badge/Telegram-127eb6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ganoodles)
+[![Email](https://img.shields.io/badge/Email-bb001a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@nush.me)
 
 [Telegram]: https://t.me/Ganoodles
 [Discord]: https://discord.bio/p/aden
