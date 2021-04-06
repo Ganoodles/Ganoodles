@@ -1,6 +1,13 @@
 ## GitHub kinda broke my profile readme...
 
-**Languages (Ordered from most used to least): Python, JavaScript, C#, Java**
+I recently privated all of my unfinished/deprecated repos.
+
+## Languages:
+(Ordered from most used to least used): 
+- Python 
+- JavaScript
+- C#
+- Java
 
 ## Setup Info
 [![OS](https://img.shields.io/badge/Arch-5.11.11-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
