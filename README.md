@@ -15,8 +15,6 @@ Contact Me:
 [![Telegram](https://img.shields.io/badge/Telegram-127eb6?style=for-the-badge&logo=telegram&logoColor=white)](Telegram)
 [![Email](https://img.shields.io/badge/Email-bb001a?style=for-the-badge&logo=gmail&logoColor=white)](Email)
 
-Contact Me: [Discord](Discord), [Telegram](Telegram), [Email](mailto:contact@nush.me)
-
 [Telegram]: https://t.me/Ganoodles
 [Discord]: https://discord.bio/p/aden
 [youtube]: https://youtube.com/Ganoosh
